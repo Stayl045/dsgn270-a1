@@ -23,3 +23,7 @@ Story: As a parent, I am seeking a specialized education for my child of complex
 8. User follow the 11 page step application process.
 9. User clicks "sumbit" once the process is complete. 
 10. User is then directed to a page indicating that Janus Academy will review their application and will be in touch.
+
+---
+
+## **_Wire Flow_** $$
