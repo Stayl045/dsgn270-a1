@@ -11,6 +11,15 @@ Janus Academy is an alternative school that specializes in assisting families wi
 ---
 
 ## **_Task Flow_** ##
-  - Who
-  - What
-  - Why
+Story: As a parent, I am seeking a specialized education for my child of complex (special) needs that helps better transition them into adulthood.
+1. Users (parents) google "specialized education for special needs children in Calgary.
+2. User clicks on the link to the Janus Academy Website.
+3. User clicks the three lines on the top left corner. 
+3. This opens top-down menu. 
+4. User may "book a tour" before deciding to apply. 
+5. If not, user clicks "how to apply".
+6. User follows the steps on screen.
+7. User clicks on "apply here" under step #2 of the application process. 
+8. User follow the 11 page step application process.
+9. User clicks "sumbit" once the process is complete. 
+10. User is then directed to a page indicating that Janus Academy will review their application and will be in touch.
