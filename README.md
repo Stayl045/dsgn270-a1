@@ -1,29 +1,31 @@
-# **DSGN - Janus Academy's Agile UX Breakdown**
-Janus Academy is an alternative school that specializes in assisting families with special needs children transition into adulthood in a successful way. 
+# **DSGN - Harry Rosen's Agile UX Breakdown**
+Harry Rosen is a website that specialized in the buy/sell of luxory men's clothing which inclues different brands across the globe.
 
 ---
 
 ## **_User Stories_** ##
-- **As a parent**, I am seeking a specialized education for my child of complex (special) needs that helps better transition them into adulthood, so that I can book a tour with this agency.
-- **As an applicant**, I am seeking employment at Janus Academy, an ogranization that leads the way in comprehensive education for those with complex needs. 
-- **As a stakeholder**, I am hoping to parter with an agency that paves the way in the betterment of this marginalized community.
+- **As a customer**, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+- **As an applicant**, I am seeking employment with Harry Rosen, so that I can work in an environment that leads the way in mens fashion. 
+- **As a fashion designer**, I am hoping to partner with Harry Rosen to provide cutting edge clothing at stores acroess Canada.
 
 ---
 
-## **_Task Flow_** ##
-Story: As a parent, I am seeking a specialized education for my child of complex (special) needs that helps better transition them into adulthood, so that I can book a tour with this agency.
-1. Users (parents) google "specialized education for special needs children in Calgary.
-2. User clicks on the link to the Janus Academy Website.
-3. User clicks the three lines on the top left corner. 
-3. This opens top-down menu. 
-4. User may "book a tour" before deciding to apply. 
-5. If not, user clicks "how to apply".
-6. User follows the steps on screen.
-7. User clicks on "apply here" under step #2 of the application process. 
-8. User follow the 11 page step application process.
-9. User clicks "sumbit" once the process is complete. 
-10. User is then directed to a page indicating that Janus Academy will review their application and will be in touch.
+## **_Task Flow_**
+As a customer, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+1. User navigates to the Harry Rosen Website via the search bar. 
+2. User clicks the breadcrumb navigation on the top left corner. 
+3. User navigates that menu and clicks on "footwear". 
+4. User then navigates another breadcrumb menu and clicks "dress shoes".
+5. User clicks on the dress shoe that they want and clicks "Add to cart".
+6. User clicks "checkout bag" at the top right corner. 
+7. User clicks "checkout" at the bottom right corner. 
+8. User adds "credit card" and other relevent info.
+9. User clicks "complete order" at the bottom. 
+10. User is directed to main page following a successful transaction. 
+
+
 
 ---
 
-## **_Wire Flow_** $$
+## **_Wire Flow_** **
+Signging up for ign news letter 
