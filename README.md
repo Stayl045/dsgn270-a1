@@ -28,4 +28,4 @@ As a customer, I am seeking an unique retail experience in luxory fashion to pur
 ---
 
 ## **_Wire Flow_** **
-[!WireFrame]()
+[!WireFrame](https://github.com/Stayl045/dsgn270-a1/blob/780e868b140280a5b4769defc180f49af0827754/Harry%20Rosen%20Wire%20Frame.png)
