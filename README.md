@@ -16,16 +16,16 @@ As a customer, I am seeking an unique retail experience in luxory fashion to pur
 2. User clicks the breadcrumb navigation on the top left corner. 
 3. User navigates that menu and clicks on "footwear". 
 4. User then navigates another breadcrumb menu and clicks "dress shoes".
-5. User clicks on the dress shoe that they want and clicks "Add to cart".
-6. User clicks "checkout bag" at the top right corner. 
-7. User clicks "checkout" at the bottom right corner. 
-8. User adds "credit card" and other relevent info.
-9. User clicks "complete order" at the bottom. 
-10. User is directed to main page following a successful transaction. 
-
-
+5. User scrolls down and clicks on the dress shoe that they want. 
+6. User scrolls down and clicks "Add to cart".
+7. User clicks "checkout bag" at the top right corner. 
+8. User clicks "checkout" at the bottom right corner. 
+9. User scrolls down and adds customer information, shipping address information.
+10. User scrolls down further and adds payment method
+11. User clicks "complete order" at the bottom. 
+12. User is directed to main page following a successful transaction. 
 
 ---
 
 ## **_Wire Flow_** **
-Signging up for ign news letter 
+[!WireFrame]()
