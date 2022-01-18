@@ -21,11 +21,11 @@ As a customer, I am seeking an unique retail experience in luxory fashion to pur
 7. User clicks "checkout bag" at the top right corner. 
 8. User clicks "checkout" at the bottom right corner. 
 9. User scrolls down and adds customer information, shipping address information.
-10. User scrolls down further and adds payment method
+10. User scrolls down further and adds payment method.
 11. User clicks "complete order" at the bottom. 
 12. User is directed to main page following a successful transaction. 
 
 ---
 
-## **_Wire Flow_** **
+## **_Wire Flow_** ##
 [!WireFrame](https://github.com/Stayl045/dsgn270-a1/blob/780e868b140280a5b4769defc180f49af0827754/Harry%20Rosen%20Wire%20Frame.png)
