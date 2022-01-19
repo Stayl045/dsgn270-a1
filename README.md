@@ -6,7 +6,7 @@ Harry Rosen is a website that specialized in the buy/sell of luxory men's clothi
 ## **_User Stories_** ##
 - **As a customer**, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
 - **As an applicant**, I am seeking employment with Harry Rosen, so that I can work in an environment that leads the way in mens fashion. 
-- **As a fashion designer**, I am hoping to partner with Harry Rosen to provide cutting edge clothing at stores acroess Canada.
+- **As a fashion designer**, I am hoping to partner with Harry Rosen to provide cutting edge clothing at stores across Canada.
 
 ---
 
