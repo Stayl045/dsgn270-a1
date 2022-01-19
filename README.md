@@ -13,9 +13,9 @@ Harry Rosen is a website that specializes in the buy/sell of luxury men's clothi
 ## **_Task Flow_**
 As a customer, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
 1. User navigates to the Harry Rosen Website via the search bar. 
-2. User clicks the breadcrumb navigation on the top left corner. 
+2. User clicks the hamburger navigation on the top left corner. 
 3. User navigates that menu and clicks on "footwear". 
-4. User then navigates another breadcrumb menu and clicks "dress shoes".
+4. User then navigates another hamburger menu and clicks "dress shoes".
 5. User scrolls down and clicks on the dress shoe that they want. 
 6. User scrolls down and clicks "Add to cart".
 7. User clicks "checkout bag" at the top right corner. 
