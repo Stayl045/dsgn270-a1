@@ -4,14 +4,14 @@ Harry Rosen is a website that specializes in the buy/sell of luxury men's clothi
 ---
 
 ## **_User Stories_** ##
-- **As a customer**, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+- **As a customer**, I am seeking an unique retail experience in luxury fashion to purchase high end dress shoes that I can use for work.
 - **As an applicant**, I am seeking employment with Harry Rosen, so that I can work in an environment that leads the way in mens fashion. 
 - **As a fashion designer**, I am hoping to partner with Harry Rosen to provide cutting edge clothing at stores across Canada.
 
 ---
 
 ## **_Task Flow_** ##
-As a customer, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+As a customer, I am seeking an unique retail experience in luxury fashion to purchase high end dress shoes that I can use for work.
 1. User navigates to the Harry Rosen Website via the search bar. 
 2. User clicks the hamburger navigation on the top left corner. 
 3. User navigates that menu and clicks on **"footwear"**. 
