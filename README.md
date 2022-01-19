@@ -1,5 +1,5 @@
 # **DSGN - Harry Rosen's Agile UX Breakdown**
-Harry Rosen is a website that specialized in the buy/sell of luxory men's clothing which inclues different brands across the globe.
+Harry Rosen is a website that specializes in the buy/sell of luxury men's clothing which inclues different brands across the globe.
 
 ---
 
