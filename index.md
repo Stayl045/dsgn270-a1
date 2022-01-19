@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# **DSGN - Harry Rosen's Agile UX Breakdown** #
+Harry Rosen is a website that specializes in the buy/sell of luxury men's clothing which includes different brands across the globe. 
 
-You can use the [editor on GitHub](https://github.com/Stayl045/dsgn270-a1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **_User Stories_** ##
+- **As a customer**, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+- **As an applicant**, I am seeking employment with Harry Rosen, so that I can work in an environment that leads the way in mens fashion. 
+- **As a fashion designer**, I am hoping to partner with Harry Rosen to provide cutting edge clothing at stores across Canada.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **_Task Flow_** ##
+As a customer, I am seeking an unique retail experience in luxory fashion to purchase high end dress shoes that I can use for work.
+1. User navigates to the Harry Rosen Website via the search bar. 
+2. User clicks the hamburger navigation on the top left corner. 
+3. User navigates that menu and clicks on **"footwear"**. 
+4. User then navigates another hamburger menu and clicks **"dress shoes"**.
+5. User scrolls down and clicks on the dress shoe that they want. 
+6. User scrolls down and clicks **"Add to cart"**.
+7. User clicks **"checkout bag"** at the top right corner. 
+8. User clicks **"checkout"** at the bottom right corner. 
+9. User scrolls down and adds customer information, shipping address information.
+10. User scrolls down further and adds payment method.
+11. User clicks **"complete order"** at the bottom. 
+12. User is directed to main page following a successful transaction. 
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stayl045/dsgn270-a1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## **_Wire Flow_** ##
+![WireFrame](https://github.com/Stayl045/dsgn270-a1/blob/780e868b140280a5b4769defc180f49af0827754/Harry%20Rosen%20Wire%20Frame.png)
